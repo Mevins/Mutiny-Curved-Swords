@@ -6,7 +6,7 @@ Game trailer: https://youtu.be/o77ILvhVZ-U
 
 Screenshots:
 
-<img src="/Screenshots/"boss.png" alt= ""/>
+<img src="/Screenshots/boss.png" alt= ""/>
 
 
 
