@@ -4,4 +4,10 @@
 
 Game trailer: https://youtu.be/o77ILvhVZ-U
 
+Screenshots:
+
+![](Mutiny-Curved-Swords/master/Screenshots/boss.png)
+
+
+
 Authors: Mevin Santhosh, Calvin Evans, Michael Ngo
