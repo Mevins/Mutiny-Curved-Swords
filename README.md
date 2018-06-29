@@ -6,7 +6,8 @@ Game trailer: https://youtu.be/o77ILvhVZ-U
 
 Screenshots:
 
-![](Mutiny-Curved-Swords/master/Screenshots/boss.png)
+![](Mutiny-Curved-Swords/Screenshots/boss.png)
+
 
 
 
