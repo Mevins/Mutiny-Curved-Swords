@@ -6,6 +6,14 @@ Game trailer: https://youtu.be/o77ILvhVZ-U
 
 Screenshots:
 
+
+<img src="/Screenshots/mainmenu.png"/>
+
+<img src="/Screenshots/items.png"/>
+
+<img src="/Screenshots/enemies.png"/>
+
+
 <img src="/Screenshots/boss.png"/>
 
 
